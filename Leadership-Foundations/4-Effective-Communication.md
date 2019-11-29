@@ -41,6 +41,38 @@ Manage and Mitigate sources of Anxietis.
 
 ## 3 Essential Communication Tools
 
+Your communiciation is critical to your succeess. The challenge though, is communication can be really hard. Share three essential tools that can help you be a more effective communicator. 
+
+1. Goal (creating a goal to direct your communication) 
+2. Structure (easier for you and your audience to remember)
+3. Paraphrasing (smoooth out challenging communication situations)
+
+All effective communication in high-stake situations needs to have a goal
+
+Goal has three parts:
+1. Information 
+2. Emotion
+3. Action 
+
+(create a meeting agenda, interpersonal, presentation)
+Helps you focus, and success metric of communication. How do I know is my communication is successful (know feel and do) quality
+1. What is it I want my audience to know
+2. How do I want theem to feel
+3. What do I want them to do at the end
+
+Structure
+- Presenter focus a message and audience to remember rit
+- What, So what?, Now what?
+- So simple, immediate relationship, used in so many ways
+- Talk about product, approach, 
+- What value will they derive
+- Conclude, now what? steps to take
+- Structure is so versatile - swiss army knife of communication.
+
+Two-Way communication (Goal and Structure)
+Paraphase (warmth and competence) demonstrate, acknowledge, extend/expand
+- Paraphrase acknowledge, really helpful, reinforces, to then expand and move on
+
 One Communication Tool You Should Add to Your Toolkit
 - Want to provide better feedback, introduce people, or master small talk?
 
