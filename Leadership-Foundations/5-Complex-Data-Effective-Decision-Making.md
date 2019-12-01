@@ -66,3 +66,39 @@ Details
 
 
 ### An Initial Analysis Debrief
+Data Case Study to be given at interview:
+- Data can be collected about many attributes of a business
+- One area that's relevant - related to every business, employee satisfaction and retention
+- Data 451 people who were employed as managers in the last few years
+- Variables: (10 is most satisfied, 1 least satisfied)
+  - Satisfaction (1 - 10)
+  - Last evaluation (1-10)
+  - Average Monthly Hours (x hours)
+  - Time at company (n years)
+  - Salary level (high, medium, or low)
+  - Promotion (1 to 0) in last five years
+  - Left the company (1 to 0)
+- Descriptive Analytics
+  - Current level of satisfication vs evaluation score (direct correlation) -> Scatterplot (level of satisfaction vs )
+  - Mean satisfication score (higher salary -> more satisfied)
+  - Manager promotion (more promotion -> retention) 
+
+1. What conclusion can you draw? What decisions might you make? What does this tell you about managers at the company?
+2. A decision is made to increase all manager salaries by 10% to incraese employee satisfcation. Using this data and analysis, do you think this a good or bad decision?
+3. A decision is made to give promotions to the top performing managers so that they don't leave the company. Using data and anaylsis do you think this is a good or bad decision?
+4. What additional information would you like to collect to better enable decision making with this data?
+
+Look at sampling (bias in those who responded)
+
+Data Analysis: several flaws with our anaylsis. 
+1. Sampling bias (selection bias) does this data set include all of the managers at the company? If not, how were these managers selected? If we did not collect data for a random or representative group of managers, we should not be drawing conclusions about the managers as a whole.
+2. Employees with higher satisfaction and higher evaluation score. Lower = Lower. Which piece of information came first? Employees not satisfied because they're receiving poor evaluations? Or low satisifcation with their jobs? Impossible to establish casuality with this data, unless we know timing of the events. We should be more careful of the data and experiment, if we want to claim any sort of causal relationship between two variables.
+3. Promotion - promotion less likely to leave company. Major flaw in analysis. If the employee leaves the company, definitely can't get a promotion. Survivor Bias (including people stay different times, naturally change the rate at which they get promotions). Data differently, select different sample of managers. Stayed for at least two years and whether or not receive a promotion within two years. All employees have the same amount of time to receive a promotion.
+4. Higher salaries = More satisfied than lower salaries (what is causing the different salaries? Perhaps these employees work in different departments/location). Might not be the salaries that's causing dissatisfaction at all. Careful about moitted variables (not in dataset)
+
+Common Errors
+1. Sampling Bias
+2. Survivor Bias
+3. Omitted variables
+
+Data analysis can be very useful but can also easily lead to erroneous conclusions.
