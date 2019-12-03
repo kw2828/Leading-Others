@@ -1,3 +1,143 @@
 # Values-Based Leadership Session
 GSB Professor: Ken Shotts
 
+### Plan for this session
+1. Clarifying questions (concepts, cases)
+2. Current event in the news selected by the cohort. 
+3. Read Values-Based Oaths
+4. Wrap up
+
+## Current Events:
+- Fake News and Misleading Election Ads on Google, Facebook, WhatsApp - Misinformation
+- Issues raised
+  - Not fact checking political ads, including those with blatant lies
+  - Not requiring disclosure of who pays for ads
+  - Lobbying against disclosure requirements
+  - Not weeding out fake accounts and bots
+  - Feasibility of fact checking
+  - Freedom of speech
+- Questions to discuss
+  - What are the values of the companies? of the companies' leaders?
+  - How do these values affect the companies' behavior?
+  - What responsibilities do companies have given their near-monopoly power and ability to shape the flow of information in society?
+  - What, if anything, should have done differently as they grew from startups to massive companies?
+  - How should companies handle censorship and pressures from governments around the world?
+- Thanksgiving
+  - Truths are different
+  - Both convinced (self-serving bias, politically neutral)
+- Diluting 
+  - Delusions of probability of success
+  - Some delusions making the world a better place
+  - What if we succeed? Role in society? Assume that society is using it 
+  - Succeed - what will have to do that, VC investors, hammering and regulatory planning
+  - Values embody (motto don't be evil, much more complicated) 
+  - Deeply (Disruption, Attempt to eliminate disception), Political Allegiances
+- No easy solution
+  - Public Policies
+  - Technology
+- Topic #2: Boeing 737Max
+  - Issues raised
+    - Boeing 737Max
+        - Concealment of technical issues with their planes
+        - Not explaining to regulators how MCAS(software) works, automatically nose down, some times too much
+        - Not explaining to pilots how MCAS (software) works
+        - Product Design get to market (Engineering)
+        - Lobbying for self-regulation
+        - Not taking responsibility clearly and immediately after crashes
+    - FAA (regulator)
+        - Relying in Boeing's self-regulation
+        - Not explaining to regulator
+        - Lobbying US Government, boeing will be certified 
+        - FAA relying too much on Boeing
+        - Being too reluctant to step in and slow down a domestic company's product
+   - Questions to discuss
+      - Can Boeing regain customer's confidence?
+      - Should FAA change its procedures for certificcation?
+      - Clearly this is a disaster for Boeing, its reputation, and its shareholder value. What organizational issues within the company led to this failure?
+- Self-serving bias within in Boeing
+- Fascinating case: structure incentives and social, aligned with the company's values and bottomline. Consequentialist, all lives the same, but in cheaper country; 
+- https://hbr.org/2019/05/how-to-design-an-ethical-organization 
+
+### Oaths
+- Level of generality
+  - Overarching approaches
+  - Challenges based on industry and location
+  - Specific tools and plans for implementation
+- Sources of inspiration
+  - Concern for society
+  - Pride in company
+  - Aspiration to virtues
+  - Religious teachings
+  - Cultural background
+  - Family
+- Leave things better than I found them. Working hard, temperance with what we materialiscally need. Strive to be inclusive. Commit to education and leadership. Other people's perspective. Teach moral: kind & good to everyone, my way is not the only way. 
+- Financial Management 
+  - Took loans
+  - Two decades, honor his word
+  - 1. Keep your word
+  - 2. Create data-driven, various
+  - 3. Demonstrate integrity and curiousity
+- Family attachment
+  - Core values: humility, questioning the status quo
+- Lisa
+  - Self-sufficiency 
+  - Advanced people of color
+  - Patience and rash decision
+  - Lack of compassion, willing to compassion
+  - Coaching, Staffing, Hiring
+  - More time and input
+  - Oath, value with productivity and compassion
+  - Questions for statement
+  - Focus on common grounds, continue to advocate
+  - Enlist other stakeholders, beliefs, positioness; directness is not always valued
+- What drives
+  - Self awareness (wonderful expression)
+- Ken Shotts
+  - Couple of years ago
+  - Feet to the fire (acknowledge what I need to work on)
+  - Tenured Professor institution he loves, flexibility comes with responsibility
+  - 1. Role as professor on ethics (deepen empathy, how they think, very different from my own, culture outside academic)
+  - 2. Critism (don't push myself to be outside of my)
+  - 3. Mission-driven organization (GSB live by values, adverse to conflict. Speak up what I believe is right, even disagreeing with colleagues, foot down, matter of right and down)
+  - 4. Consumer and resident (try not to engage in the competition, wonderful vacations, big cars -> happier) use resources we believe
+  - 5. Husband and a father (time allocation, conferences around the world, consult and earn more money, biggest scholar, come to realize most important (not much time left), being a parent is the most difficult, commit to family as much as possible)
+- Wrap up
+  - Not super deep and profound wrap up
+  - Values in business (temptation "Me too, hero stories, Gates/Buffett (give huge money), doing effectively, Founder at Patagonia set of values over the years, hero stories (family)) 
+  - Hero stories 
+  - Day to day living, not heroism
+  - Try to cultivate better selves
+- Normative ethics
+  - It is not ok to treat myself as special
+    - Utilarianism: others' utilities count the same as mine
+    - Kant:
+  - Constantly treat ourselves and our in-group as special
+    - self-serving biasees
+    - making decisions based on situations rather principles
+  - Deeply skeptical about be yourself
+    - (Stanford) Thinker sculpture
+    - Academic, totally rational, etc. (Not human)
+  - Practical contexts
+    - Philosphical Reasoning
+    - Religious Training
+    - Upbringing: Parents & family
+    - Emotions
+    - Desire for praise
+  - Negative:
+    - Stress & time pressure
+    - Social pressures
+    - Self-serving biases
+    - Rationalizations
+    - Misaligned incentives
+  - Final Takeaway
+    - "To be at peace with oneself it's important to be authentic"
+    - "It's okay for me to do this because..." (all the consequences)
+    - Have authentic reasons, family and friends to push ourselves
+    - Right direction
+    - Not enough about well-reasoned analysis - we need to also make it emotionallly compelling
+    - Make things emotionally compelling (family, religion)
+  - Final takeaways: long
+    - Plan your life to cultivate the virtues to which you aspire
+    - Make decisions about career, friends, business partners, situational factors
+    - When making decisions about your career, friends, business partners, etc, consider how situational factors will affect the person you become
+    - Lead with your values
