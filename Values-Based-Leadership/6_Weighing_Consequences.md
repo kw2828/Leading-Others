@@ -85,3 +85,50 @@ Consequentialism involves assessing how an action affects various stakeholders a
     - Self-serving conclusion her bribe no effect on the future behavior of the principal or on others in society
 - Similarly, consequentialist reasoning often is subject to self-serving biases, in the sense that we tend to overestimate how much our preferred action benefits our workers, shareholders, or consumers while underestimating the harms that it causes
  
+### Practical Applications of Consequentialism
+- How can consequentialist analysis be applied to concrete business decisions?
+- Easiest way is to make a quick story on how we are "making the world a better place"
+- To do it more seriously, carefully consider all of the effects of our actions
+- Example #1 Sweatshops
+  - Low-paid workers 
+  - Often young girls who work rather than go to school
+  - Factories are full of health hazard and prone to collapse or major fires
+  - People in wealthy have a natural moral intuition about this
+  - Factory conditions are applaing and the clothing companies should shut down all sweatshops 
+  - Only produce clothes in countries with higher wages and good working conditions
+  - Think about the effect of such decision ***
+    - Effects on the peoplle that it is supposed to benefit
+    - Many of the workers in sweatshops work there precisely because the job is better, often substantially better, than other alternatives
+    - Strong consequentialist argument for continuing to produce clothing in sweatshops
+  - On the other hand, consequentialist analysis should consider
+    - Possibility clothing companies could increase the wages somewhat for garment workers in develeoping countries
+    - Factory operators adhere to somewhat better health and safety standards
+    - Raise price of clothing a bit
+    - Reduce profits for the clothing companies and the factory operators
+    - Benefits to the workers would be substantial and probably outweigh these downsides
+ - Example #2 Designing addictive video games or social media platforms
+  - Many online experiences are carefully crafted to maximize engagement
+  - Getting users to spend as much time as possible on a game or a website
+  - Games for freemium model, the gamers can play for free but buy-in
+  - Engagement converts into advertisement revenue 
+  - As wonderful as the two can be, strong argument that spending countless hours isn't good for individuals, families, neighbors, and society. Responsibility to be less addictive (Harm > Benefits) 
+- Example #3 D2C of Pharmaceuticals
+  - Advertisements of all kind of prescriptive drugs (TV, magazine, subway)
+  - Drugs (allergies, bipolar, pain, smoking, medical conditions)
+  - A major criticism is it induces people to pressure their doctors to prescribe drugs they don't really need (costs)
+    - Costly for healthcare payer
+    - Substantial health side effects
+  - Benefits
+    - Suffer significant medical conditions
+    - Learn information and treatment
+  - Consequentialist Analysis (drug for each patient) minimal side effects, raise awareness previously untreated
+  - Systematic Consequentialist Analysis would also consider the cost to healthcare providers and insurers, benefits to the pharmaceutical companies, and impact on people around the world
+  - Systematic Consequentialist Analysis powerful tool for analysis for business decisions. Better place, actually assess consequences of their actions
+
+### Consequentialist Stakeholder Analysis
+- 1. Status Quo vs Alternative
+- 2. List stakeholders -> consequences of alternative -> Net benefits (++/+/0/-/--)
+- 3. Summary
+
+### Al-Shabaab Consequentialist Stakeholder analysis
+- Net benefit is close to 0, however more clarity on what to research on the indirect consequences
