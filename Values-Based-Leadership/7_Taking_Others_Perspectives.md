@@ -19,7 +19,7 @@ This requires considering not just the perspectives of those at the top, but als
   - Perspective taking is not just a useful skill
   - Important analytical lens for grounding our values, goals, and practices as leaders
   - Many cultural and religious traditions express values or norms of behavior in ways that emphasize the importance of perspective taking
-  - Examples
+  - Examples from many cultural/religions
     - "Hurt not others in ways that you yourself would find hurtful." - Udana-Varga (Buddhism)
     - "Do to others what you would have them do to you." - Christianity
     - "What you do not want done to yourself, do not do to others" - Confucianism
@@ -47,3 +47,25 @@ This requires considering not just the perspectives of those at the top, but als
   - Treating her both as a means to make money for myself
   - And as an end, in the sense that she can make use of the product
 - Treating someone as an end implictly involves taking their perspectives and recognizing their legitimate goals and intentions
+
+### John Rawl's Veil of Ignorance
+- Other's perspectives in social institutions and company
+- Privilege (Educated parents, opportunities to succeed, develop valued skills)
+- Upbringing Low Income (Faced Discrimination, Limited Resources) 
+- Fortunate/Unfortunate
+- Assume we don't know our own circumstances (who I'd be) 
+- Fair and just institutions
+- Rawl's
+  - Equality of Opportunity (encompasses that society is setup in a way that people can be succssful)
+  - Risk averse of least well off people (extreme distribution worse off)
+  - Same salaries (quickly go out of businss)
+  - Operate effective (failing economy) -> differences of outcome is okay
+  - Differences, maximizing not welll-off
+  - Veil of ignorance (try to see things others, staff members)
+- Employees
+  - Janitor (decent pay, opportunities for success)
+  - Contractors (low pay, no promotions)
+  - Put position as janitor
+- Strong mission and values
+  - Policies
+  - Perspective taking
