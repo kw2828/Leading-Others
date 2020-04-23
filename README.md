@@ -1,5 +1,5 @@
 # Business-Leadership
-Notes on Business, Leadership, Case Studies, Decision Making
+Notes on Empathy, Listening, Leadership, Business, Case Studies, Decision Making
 
 
 ### Tactical Focuses
