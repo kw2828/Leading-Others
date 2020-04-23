@@ -11,6 +11,8 @@ Sharpen the fundamentals and greatly improve the following abilities:
 5. Delegate with greater wisdom and thoughtfulness
 6. Develop a culture of consistent accountability
 
+Being intentional about respecting those you work with - motivated to listen to them, to ask them what they thought, to delegate more effectively, and to hold them accountable rather than doing things himsellf or just giving them a pass.
+
 ### Table of content:
 1. Leadership Foundations
 2. Values-Based Leadership
