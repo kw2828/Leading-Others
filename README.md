@@ -2,10 +2,10 @@
 Notes on Empathy, Listening, Leadership, Business, Case Studies, Decision Making
 
 One key goal of leadership: energize and equip others to achieve exceptional results that exceed established goals.
-"To be heard, first we must listen."
-"The sheer act of listening speaks volumes that even a great speech can't communicate."
-"The wise man doesn't give the right answers, he poses the right questions."
-"It is only as we develop oothers that we permanently succeed."
+- "To be heard, first we must listen."
+- "The sheer act of listening speaks volumes that even a great speech can't communicate."
+- "The wise man doesn't give the right answers, he poses the right questions."
+- "It is only as we develop oothers that we permanently succeed."
 
 ### Tactical Focuses
 Sharpen the fundamentals and greatly improve the following abilities:
